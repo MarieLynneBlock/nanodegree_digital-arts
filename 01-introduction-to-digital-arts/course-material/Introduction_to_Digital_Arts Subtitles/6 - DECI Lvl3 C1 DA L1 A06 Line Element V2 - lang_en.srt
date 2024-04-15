@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:02,685
+Line. It seems so simple.
+
+2
+00:00:02,685 --> 00:00:05,340
+We study them, we draw them,
+
+3
+00:00:05,340 --> 00:00:08,910
+and we hardly ever think about them. They are just there.
+
+4
+00:00:08,910 --> 00:00:11,970
+But there's a lot more to it.
+
+5
+00:00:11,970 --> 00:00:16,065
+Let's take a closer look at the most basic of elements line.
+
+6
+00:00:16,065 --> 00:00:18,810
+Let's get right to the point. That's right.
+
+7
+00:00:18,810 --> 00:00:23,790
+The point, take out a pen or a pencil and make a dot on a piece of paper.
+
+8
+00:00:23,790 --> 00:00:28,485
+That dot in the digital realm is actually a line.
+
+9
+00:00:28,485 --> 00:00:29,940
+It is in fact,
+
+10
+00:00:29,940 --> 00:00:33,985
+the smallest unit of line and it only gets bigger from there.
+
+11
+00:00:33,985 --> 00:00:37,335
+Now, I want you to repeat that simple exercise,
+
+12
+00:00:37,335 --> 00:00:42,100
+but drag the pen or pencil across the paper and you have a line,
+
+13
+00:00:42,100 --> 00:00:45,290
+which is actually just an elongated point.
+
+14
+00:00:45,290 --> 00:00:50,300
+When we create this elongated point or line on the computer,
+
+15
+00:00:50,300 --> 00:00:54,595
+we are creating something that has magnitude and direction.
+
+16
+00:00:54,595 --> 00:00:57,215
+When something has those two things,
+
+17
+00:00:57,215 --> 00:00:58,955
+what do we know to be true?
+
+18
+00:00:58,955 --> 00:01:01,670
+Yes, that is correct.
+
+19
+00:01:01,670 --> 00:01:04,040
+The digital line is a vector graphic.
+
+20
+00:01:04,040 --> 00:01:06,290
+This simplest of all elements.
+
+21
+00:01:06,290 --> 00:01:08,975
+Lines can have many different qualities.
+
+22
+00:01:08,975 --> 00:01:11,330
+They can be straight or wavy,
+
+23
+00:01:11,330 --> 00:01:13,265
+and they can be downright curly.
+
+24
+00:01:13,265 --> 00:01:15,665
+They can be solid or broken.
+
+25
+00:01:15,665 --> 00:01:18,455
+They can snake across the entire screen,
+
+26
+00:01:18,455 --> 00:01:20,705
+or they can appear just at the edges.
+
+27
+00:01:20,705 --> 00:01:23,500
+They can be thick or very narrow.
+
+28
+00:01:23,500 --> 00:01:27,065
+A general rule of thumb with line is this.
+
+29
+00:01:27,065 --> 00:01:30,275
+They're usually longer than they are wide.
+
+30
+00:01:30,275 --> 00:01:33,710
+Let's take a closer look at some of the categories of line.
+
+31
+00:01:33,710 --> 00:01:37,060
+We have solid, which is one continuous line.
+
+32
+00:01:37,060 --> 00:01:40,890
+Implied line. This can be dotted or dashed.
+
+33
+00:01:40,890 --> 00:01:44,630
+Although technically each dot or dash is a line,
+
+34
+00:01:44,630 --> 00:01:47,990
+the human eye will see it as one continuous line.
+
+35
+00:01:47,990 --> 00:01:50,455
+That is because of something called gestalt.
+
+36
+00:01:50,455 --> 00:01:54,785
+Now, gestalt simply means that we see the entire dashed line as one unit,
+
+37
+00:01:54,785 --> 00:01:59,495
+instead of seeing each dash as an individual unit. Line of vision.
+
+38
+00:01:59,495 --> 00:02:02,435
+This is the movement as your eye looks at the composition,
+
+39
+00:02:02,435 --> 00:02:06,185
+it is also called the line of movement or directional line.
+
+40
+00:02:06,185 --> 00:02:08,600
+Lines can be used for many functions.
+
+41
+00:02:08,600 --> 00:02:10,630
+They can make shapes and forms,
+
+42
+00:02:10,630 --> 00:02:12,955
+they can create borders and edges,
+
+43
+00:02:12,955 --> 00:02:16,640
+and they can help organize and assist someone in how they look at a design.
+
+44
+00:02:16,640 --> 00:02:19,520
+In fact, line has its own style.
+
+45
+00:02:19,520 --> 00:02:24,390
+If the main element is line then the style is called linear
+

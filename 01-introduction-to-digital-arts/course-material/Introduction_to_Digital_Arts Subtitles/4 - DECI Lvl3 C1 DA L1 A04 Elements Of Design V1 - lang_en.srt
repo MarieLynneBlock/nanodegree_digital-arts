@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:05,295
+Now we have a general idea of the space and type of artwork we will be creating.
+
+2
+00:00:05,295 --> 00:00:07,995
+Let's talk a little about the basics of design.
+
+3
+00:00:07,995 --> 00:00:10,485
+These are what we call the elements of design.
+
+4
+00:00:10,485 --> 00:00:14,385
+Here's some of the elements we will talk about throughout our learning journey.
+
+5
+00:00:14,385 --> 00:00:18,180
+A line. A line is actually an elongated point.
+
+6
+00:00:18,180 --> 00:00:23,415
+It is the most basic of all of the elements. A shape.
+
+7
+00:00:23,415 --> 00:00:25,920
+A shape is the general outline of something,
+
+8
+00:00:25,920 --> 00:00:29,415
+or a closed form or closed path.
+
+9
+00:00:29,415 --> 00:00:34,245
+Color. Now color is perhaps the element we are most familiar with.
+
+10
+00:00:34,245 --> 00:00:35,640
+In the digital world,
+
+11
+00:00:35,640 --> 00:00:39,345
+we will learn about additive colors, RGB.
+
+12
+00:00:39,345 --> 00:00:42,315
+Now, RGB stands for red, green, and blue,
+
+13
+00:00:42,315 --> 00:00:47,170
+and all of the colors that you see on the screen are made up of those three colors.
+
+14
+00:00:47,170 --> 00:00:54,035
+Space. Now space is otherwise referred to as figure ground or negative space.
+
+15
+00:00:54,035 --> 00:00:57,110
+This refers to the space around the objects and it is as
+
+16
+00:00:57,110 --> 00:01:00,445
+much an element as the objects themselves.
+
+17
+00:01:00,445 --> 00:01:03,230
+Typography. Now, most people don't even
+
+18
+00:01:03,230 --> 00:01:05,990
+think about the letters they see on the screen or in print.
+
+19
+00:01:05,990 --> 00:01:08,615
+They just read the information provided.
+
+20
+00:01:08,615 --> 00:01:12,020
+But typography itself is an art form.
+
+21
+00:01:12,020 --> 00:01:14,735
+Lastly, we have texture.
+
+22
+00:01:14,735 --> 00:01:17,990
+In the digital world, we can't create texture that we can
+
+23
+00:01:17,990 --> 00:01:21,125
+physically feel or tactile texture.
+
+24
+00:01:21,125 --> 00:01:27,530
+Instead, we create visual texture or artworks that look like it has texture.
+
+25
+00:01:27,530 --> 00:01:29,090
+In this first example,
+
+26
+00:01:29,090 --> 00:01:31,760
+we have something similar to a quick pencil sketch.
+
+27
+00:01:31,760 --> 00:01:37,460
+The second example is radial and it appears like the screen has a rounded texture to it.
+
+28
+00:01:37,460 --> 00:01:42,680
+The third example is layered shapes that give some depth by mimicking shadow.
+
+29
+00:01:42,680 --> 00:01:46,670
+It's good to know that we can use texture to help give dimension.
+
+30
+00:01:46,670 --> 00:01:49,010
+The elements are the backbone of design.
+
+31
+00:01:49,010 --> 00:01:52,385
+They are the building blocks for all of your digital creations.
+
+32
+00:01:52,385 --> 00:01:56,360
+Both those who create artwork as a hobby and the professionals who create
+
+33
+00:01:56,360 --> 00:02:01,380
+brands for international companies all rely on these elements
+

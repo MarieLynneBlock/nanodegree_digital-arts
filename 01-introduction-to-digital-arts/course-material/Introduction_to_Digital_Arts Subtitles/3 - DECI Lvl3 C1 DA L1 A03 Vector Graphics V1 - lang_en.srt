@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:03,030
+Have you ever wondered how billboards are designed?
+
+2
+00:00:03,030 --> 00:00:06,615
+Or the advertisements you see on the sides of buildings or buses?
+
+3
+00:00:06,615 --> 00:00:10,620
+Conversely, have you ever paid attention to the design of a postage stamp?
+
+4
+00:00:10,620 --> 00:00:16,980
+Or seeing small graphics perhaps on social media and wondered how they were created.
+
+5
+00:00:16,980 --> 00:00:21,585
+Well, they were created one of two ways, vector or raster.
+
+6
+00:00:21,585 --> 00:00:23,910
+In a nutshell, raster designs are
+
+7
+00:00:23,910 --> 00:00:27,915
+pixel-based and their quality is dependent on their size.
+
+8
+00:00:27,915 --> 00:00:33,660
+Have you ever tried to enlarge a photo and suddenly got distorted or blurry?
+
+9
+00:00:33,660 --> 00:00:36,645
+This is because it's based on something called pixels.
+
+10
+00:00:36,645 --> 00:00:39,540
+The second avenue is vector-based graphics,
+
+11
+00:00:39,540 --> 00:00:41,930
+and this is where we will focus on.
+
+12
+00:00:41,930 --> 00:00:43,925
+Before we dive into that though,
+
+13
+00:00:43,925 --> 00:00:46,615
+let's take a moment to learn what vectors are.
+
+14
+00:00:46,615 --> 00:00:52,850
+In simple terms, a vector is something like an object with both magnitude and direction.
+
+15
+00:00:52,850 --> 00:00:54,425
+Look at that little boat.
+
+16
+00:00:54,425 --> 00:00:56,690
+The magnitude of the boat would be its length,
+
+17
+00:00:56,690 --> 00:01:00,470
+and the direction would be the arrow moving across the screen to the right.
+
+18
+00:01:00,470 --> 00:01:05,370
+Now, the river could turn a bend or the boat could change its direction,
+
+19
+00:01:05,370 --> 00:01:06,920
+so there is the possibility for
+
+20
+00:01:06,920 --> 00:01:10,870
+many different vectors using the boat in the river, for example.
+
+21
+00:01:10,870 --> 00:01:12,650
+In the design world,
+
+22
+00:01:12,650 --> 00:01:15,215
+the vectors we will be working with will scale
+
+23
+00:01:15,215 --> 00:01:19,070
+up or down so their direction will be outwards or inwards,
+
+24
+00:01:19,070 --> 00:01:22,315
+and their magnitude will change with the scale of the object.
+
+25
+00:01:22,315 --> 00:01:26,360
+All of this is a fancy way of saying that no matter what you create,
+
+26
+00:01:26,360 --> 00:01:32,405
+whether it's small like a postage stamp or big like a billboard advertisement,
+
+27
+00:01:32,405 --> 00:01:36,140
+at any size it will look exactly the same.
+
+28
+00:01:36,140 --> 00:01:42,760
+You can scale up or down infinitely without compromising the integrity of the visual.
+
+29
+00:01:42,760 --> 00:01:45,395
+It is a really cool feature in the design world.
+
+30
+00:01:45,395 --> 00:01:47,975
+The software does all of the math for us.
+
+31
+00:01:47,975 --> 00:01:50,450
+So if you were worried because you thought you stumbled
+
+32
+00:01:50,450 --> 00:01:53,165
+into a math class by mistake, have no fear.
+
+33
+00:01:53,165 --> 00:01:57,145
+We just needed a basic understanding of how it all works.
+
+34
+00:01:57,145 --> 00:01:59,510
+What does that mean for you as a designer?
+
+35
+00:01:59,510 --> 00:02:04,265
+It means that by using a computer or tablet and vector-based software,
+
+36
+00:02:04,265 --> 00:02:10,410
+you have the capability to design anything for any project of any size.
+

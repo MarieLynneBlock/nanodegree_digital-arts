@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:04,065
+Congratulations, you have just completed your first lesson.
+
+2
+00:00:04,065 --> 00:00:06,120
+We have learned so much already.
+
+3
+00:00:06,120 --> 00:00:12,315
+To recap, we now know that the practices of digital art and graphic design create most,
+
+4
+00:00:12,315 --> 00:00:16,270
+if not all of the visuals we see around us in our everyday life.
+
+5
+00:00:16,270 --> 00:00:17,750
+We have learned that most of
+
+6
+00:00:17,750 --> 00:00:21,830
+this digital art work is created using vector-based graphics,
+
+7
+00:00:21,830 --> 00:00:26,660
+and that these can be produced at any size with the exact same results.
+
+8
+00:00:26,660 --> 00:00:30,065
+We also learned about the elements and principles,
+
+9
+00:00:30,065 --> 00:00:32,425
+the basic building blocks of design,
+
+10
+00:00:32,425 --> 00:00:37,325
+and we learned how to implement the first to the elements line using Canva,
+
+11
+00:00:37,325 --> 00:00:39,190
+a free open-source software.
+
+12
+00:00:39,190 --> 00:00:42,010
+Wow, we covered so much already.
+
+13
+00:00:42,010 --> 00:00:46,800
+You are well on your way to becoming digital artists and graphic designers.
+

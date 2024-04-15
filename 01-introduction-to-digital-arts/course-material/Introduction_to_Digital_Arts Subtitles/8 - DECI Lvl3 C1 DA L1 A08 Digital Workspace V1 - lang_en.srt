@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:03,165
+Now, let's learn how to create digitally.
+
+2
+00:00:03,165 --> 00:00:08,415
+Throughout this course, we will be working with free open-source software called Canva.
+
+3
+00:00:08,415 --> 00:00:12,765
+There are many different options for designing and creating artwork on the computer.
+
+4
+00:00:12,765 --> 00:00:16,155
+Here are some steps we will take to complete this activity.
+
+5
+00:00:16,155 --> 00:00:21,510
+Let's start this exercise by opening Canva on our computers and setting up our accounts.
+
+6
+00:00:21,510 --> 00:00:23,505
+I've just opened Canva,
+
+7
+00:00:23,505 --> 00:00:25,350
+and this is what you see when you'll open it.
+
+8
+00:00:25,350 --> 00:00:30,675
+Up here in the upper right-hand corner is a button that says create, design.
+
+9
+00:00:30,675 --> 00:00:34,010
+If we hover over that, we get this drop-down menu.
+
+10
+00:00:34,010 --> 00:00:36,080
+We're going to go down to Custom Size.
+
+11
+00:00:36,080 --> 00:00:39,125
+There's lots of built-in sizes that are already there;
+
+12
+00:00:39,125 --> 00:00:40,475
+templates and whatnot,
+
+13
+00:00:40,475 --> 00:00:43,640
+but if we go down here to the bottom and click "Custom size",
+
+14
+00:00:43,640 --> 00:00:45,870
+we get this drop-down menu.
+
+15
+00:00:45,870 --> 00:00:49,715
+Let's go ahead and make 1,000 pixels by 1,000 pixels.
+
+16
+00:00:49,715 --> 00:00:53,165
+That gives us a nice square to work with and so go ahead,
+
+17
+00:00:53,165 --> 00:00:58,110
+you can hit those numbers and click "Create new design".
+
+18
+00:00:58,220 --> 00:01:00,240
+What do we have here?
+
+19
+00:01:00,240 --> 00:01:04,415
+We have a blank artboard and to give you a little tour of Canva.
+
+20
+00:01:04,415 --> 00:01:05,675
+This is your artboard,
+
+21
+00:01:05,675 --> 00:01:07,080
+this is the workable space,
+
+22
+00:01:07,080 --> 00:01:09,245
+and over here on the left,
+
+23
+00:01:09,245 --> 00:01:11,720
+we've got some built-in features.
+
+24
+00:01:11,720 --> 00:01:17,580
+On the far left, we've got our main components of the software.
+
+25
+00:01:17,700 --> 00:01:21,410
+Let's go ahead and click on "Elements".
+
+26
+00:01:21,410 --> 00:01:24,870
+Right here we have some built-in elements,
+
+27
+00:01:24,870 --> 00:01:28,220
+and why don't we go ahead and click on lines and shapes?
+
+28
+00:01:28,220 --> 00:01:30,810
+It's right here, it's the second one down.
+
+29
+00:01:32,480 --> 00:01:38,705
+Learning about lines, we can see that there's some built-in line functions here in Canva.
+
+30
+00:01:38,705 --> 00:01:40,470
+We can click on any of these.
+
+31
+00:01:40,470 --> 00:01:42,800
+Here is a solid line and it pops up right in
+
+32
+00:01:42,800 --> 00:01:47,170
+the center and so there are a few things about this that we can look at.
+
+33
+00:01:47,170 --> 00:01:49,970
+If we look at these little arrows right here and hover over it,
+
+34
+00:01:49,970 --> 00:01:51,800
+you can see that it turns purple,
+
+35
+00:01:51,800 --> 00:01:53,915
+and if we hold down our mouse,
+
+36
+00:01:53,915 --> 00:01:57,655
+we can see that we can rotate this line in any direction.
+
+37
+00:01:57,655 --> 00:02:03,380
+There's the angle that pops up and there's also these two circles on the side that
+
+38
+00:02:03,380 --> 00:02:08,915
+we can drag in any direction to create the line length,
+
+39
+00:02:08,915 --> 00:02:12,070
+whether we want it longer or shorter.
+
+40
+00:02:12,070 --> 00:02:16,085
+If we go up here to this toolbar,
+
+41
+00:02:16,085 --> 00:02:20,065
+this first one is where we can change the color of our line.
+
+42
+00:02:20,065 --> 00:02:23,315
+We can give it any color we like;
+
+43
+00:02:23,315 --> 00:02:26,240
+purple, red, it doesn't matter.
+
+44
+00:02:26,240 --> 00:02:32,675
+Let's stick with this purple that we have right here and then this next one, line style.
+
+45
+00:02:32,675 --> 00:02:38,170
+This is where we can change it from a solid line to a dotted line,
+
+46
+00:02:38,170 --> 00:02:40,735
+change the size of the dots.
+
+47
+00:02:40,735 --> 00:02:44,050
+Right here is how we make the line thicker.
+
+48
+00:02:44,050 --> 00:02:47,490
+The higher the number, the heavier the weight.
+
+49
+00:02:47,490 --> 00:02:50,495
+If we go back to our solid line,
+
+50
+00:02:50,495 --> 00:02:52,925
+we can see that this is a nice thick line.
+
+51
+00:02:52,925 --> 00:02:55,700
+Then one last little thing here,
+
+52
+00:02:55,700 --> 00:02:58,415
+if we toggle this on and off,
+
+53
+00:02:58,415 --> 00:03:01,715
+that gives us a nice rounded edge to our lines
+
+54
+00:03:01,715 --> 00:03:05,450
+instead of the straight looking almost like a rectangle.
+
+55
+00:03:05,450 --> 00:03:07,850
+That's a nice way to soften those.
+
+56
+00:03:07,850 --> 00:03:11,665
+We can go ahead and decrease the weight of that.
+
+57
+00:03:11,665 --> 00:03:13,770
+A couple of other things.
+
+58
+00:03:13,770 --> 00:03:15,845
+If you have this clicked,
+
+59
+00:03:15,845 --> 00:03:19,310
+we can add ends to our lines as well.
+
+60
+00:03:19,310 --> 00:03:24,455
+If we want it to be an arrow or a circle at the end,
+
+61
+00:03:24,455 --> 00:03:26,630
+this is a way that we can change our lines.
+
+62
+00:03:26,630 --> 00:03:31,775
+We can also change it from a straight to an elbow line.
+
+63
+00:03:31,775 --> 00:03:34,550
+If we go ahead and click out of that,
+
+64
+00:03:34,550 --> 00:03:36,245
+we have a line here.
+
+65
+00:03:36,245 --> 00:03:38,375
+That's one way to create a line.
+
+66
+00:03:38,375 --> 00:03:45,225
+The second way that we can create a line in Canva is by using the draw tools here.
+
+67
+00:03:45,225 --> 00:03:47,280
+On the left-hand side,
+
+68
+00:03:47,280 --> 00:03:49,245
+if we click on Draw,
+
+69
+00:03:49,245 --> 00:03:53,730
+we get some markers and some different size things that pop up.
+
+70
+00:03:53,730 --> 00:03:59,290
+Go ahead and click on this marker and we can just free-hand a line.
+
+71
+00:03:59,290 --> 00:04:04,335
+Obviously, this isn't as clean as the straight lines that Canva gives us,
+
+72
+00:04:04,335 --> 00:04:08,015
+and it gives us a much more organic or natural field to the line.
+
+73
+00:04:08,015 --> 00:04:11,735
+Again, for my artists out there who like to freehand draw things,
+
+74
+00:04:11,735 --> 00:04:14,310
+this might be a tool that's good for you.
+

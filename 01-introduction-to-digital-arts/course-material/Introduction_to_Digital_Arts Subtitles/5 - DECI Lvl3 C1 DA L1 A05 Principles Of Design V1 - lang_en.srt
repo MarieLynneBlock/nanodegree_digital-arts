@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:03,660
+Line, shape, color, space,
+
+2
+00:00:03,660 --> 00:00:07,410
+type, and texture are the basic building blocks of design.
+
+3
+00:00:07,410 --> 00:00:13,515
+Now, let's look at how to turn these individual objects into an effective visual design.
+
+4
+00:00:13,515 --> 00:00:18,105
+We do this by using what are called the principles of design.
+
+5
+00:00:18,105 --> 00:00:20,940
+They are balance and scale.
+
+6
+00:00:20,940 --> 00:00:23,850
+Balance is visual stability,
+
+7
+00:00:23,850 --> 00:00:28,200
+meaning that there is an even distribution of the elements in the composition,
+
+8
+00:00:28,200 --> 00:00:29,820
+like you see in this example.
+
+9
+00:00:29,820 --> 00:00:32,335
+Scale is the size of the elements.
+
+10
+00:00:32,335 --> 00:00:34,820
+These two work hand in hand together.
+
+11
+00:00:34,820 --> 00:00:39,355
+Even though the odd number of circles we see are all different scales,
+
+12
+00:00:39,355 --> 00:00:41,380
+because of their visual placement,
+
+13
+00:00:41,380 --> 00:00:43,985
+the composition remains balanced.
+
+14
+00:00:43,985 --> 00:00:45,835
+Contrast and pattern.
+
+15
+00:00:45,835 --> 00:00:48,620
+Opposing elements that play off of each other,
+
+16
+00:00:48,620 --> 00:00:54,215
+like these white circles against that dark blue background can often turn into patterns.
+
+17
+00:00:54,215 --> 00:00:57,670
+That is why these two go hand in hand most of the time.
+
+18
+00:00:57,670 --> 00:01:00,740
+Movement. When you think of movement,
+
+19
+00:01:00,740 --> 00:01:02,660
+think of the rhythm of a song.
+
+20
+00:01:02,660 --> 00:01:07,820
+A composition should have elements that move the eye around the page.
+
+21
+00:01:07,820 --> 00:01:16,055
+Emphasis. Now, emphasis is about visual hierarchy or order of visual importance.
+
+22
+00:01:16,055 --> 00:01:18,890
+On the screen, you can see that this center circle
+
+23
+00:01:18,890 --> 00:01:22,070
+has been made larger than all of the other elements.
+
+24
+00:01:22,070 --> 00:01:26,935
+This is a visual clue that it may be more important than the other elements.
+
+25
+00:01:26,935 --> 00:01:31,610
+Unity. Now a good way to describe unity is when all of
+
+26
+00:01:31,610 --> 00:01:36,230
+the individual elements worked so well together that they make up a whole composition.
+
+27
+00:01:36,230 --> 00:01:38,360
+These are a little bit more advance,
+
+28
+00:01:38,360 --> 00:01:40,775
+so we won't worry too much about them now.
+
+29
+00:01:40,775 --> 00:01:43,190
+However, you will begin to see
+
+30
+00:01:43,190 --> 00:01:47,420
+these words and it is important to know what we are referencing.
+
+31
+00:01:47,420 --> 00:01:50,600
+Before long, you will have a solid knowledge of
+
+32
+00:01:50,600 --> 00:01:54,420
+both the elements and the principles of design.
+
